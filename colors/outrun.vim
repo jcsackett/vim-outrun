@@ -111,7 +111,7 @@ exe 'hi Character guifg='s:const
 exe 'hi Comment guifg='s:comment
 exe 'hi Conditional guifg='s:keyword
 exe 'hi Constant guifg='s:const
-exe 'hi Todo guibg='s:fg' guibg='s:warning'
+exe 'hi Todo guibg='s:fg' guibg='s:warning
 exe 'hi Define guifg='s:keyword
 exe 'hi DiffAdd guifg=#fafafa guibg=#123d0f gui=bold'
 exe 'hi DiffDelete guibg='s:bg2
